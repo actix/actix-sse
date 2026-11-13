@@ -1,9 +1,9 @@
 [package]
 name = "actix-sse"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Rob Ede <robjtede@icloud.com>", "Caido Labs Inc. <dev@caido.io>"]
 description = "Actix-web SSE implementation"
-repository = "https://github.com/caido/actix-sse"
+repository = "https://github.com/actix/actix-sse"
 license = "MIT"
 edition = "2024"
 
