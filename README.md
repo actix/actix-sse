@@ -1,3 +1,8 @@
+> [!NOTE]
+> Source code moved to the [actix-extras repo](https://github.com/actix/actix-extras).
+
+---
+
 # Actix SSE
 
 [<img alt="github" src="https://img.shields.io/badge/github-actix/actix_sse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/actix/actix-sse)
